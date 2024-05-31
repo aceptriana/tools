@@ -1,14 +1,21 @@
 ## Tools Grabber KTP Multi User
 ## Studensite Universitas Kuningan
 
-* isi user.txt & pass.txt terlebih dahulu 
-* install requirement yang dibuthkan
 
+## Instalasi
+```
+git clone https://github.com/aceptriana/tools/
+cd tools
+```
 ```
 pip install selenium
 ```
 ```
 pip install requests
+```
+* isi user.txt & pass.txt terlebih dahulu 
+```
+python ktp.py
 ```
 
 > _NOTE: 
