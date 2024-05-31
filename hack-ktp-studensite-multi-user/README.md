@@ -5,7 +5,7 @@
 ## Instalasi
 ```
 git clone https://github.com/aceptriana/tools/
-cd tools
+cd tools/hack-ktp-studensite-multi-user
 ```
 ```
 pip install selenium
